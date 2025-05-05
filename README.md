@@ -1,4 +1,4 @@
-# 🛂 ZentraGate
+# ⛩️ ZentraGate
 
 **ZentraGate** is the secure API gateway for the Zentra ecosystem. It acts as the controlled entry point for external applications to interact with real-time and historical data processed by **ZentraFlow** and stored in **ZentraVault**.
 
